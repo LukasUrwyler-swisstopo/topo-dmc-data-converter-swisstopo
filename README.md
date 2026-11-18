@@ -13,6 +13,9 @@ Desktop-Tool mit grafischer Oberfläche für die Aufbereitung von Luftbilddaten 
 
 Entwickelt bei swisstopo für die Produktion von Spezialbefliegungen.
 
+<img width="846" height="921" alt="image" src="https://github.com/user-attachments/assets/df577383-0715-489e-a47c-ad66f767c00e" />
+
+
 ## Funktionen
 
 | Tab | Was er macht |
